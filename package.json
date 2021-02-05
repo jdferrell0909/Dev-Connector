@@ -1,0 +1,19 @@
+{
+  "name": "devconnector",
+  "version": "1.0.0",
+  "description": "Social network for devs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdferrell0909/Dev-Connector.git"
+  },
+  "author": "James Ferrell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdferrell0909/Dev-Connector/issues"
+  },
+  "homepage": "https://github.com/jdferrell0909/Dev-Connector#readme"
+}
